@@ -25,7 +25,7 @@ For the *1uzd.py* and *2uzd.py* you have to :
 
 3. For the first task you have to enter hash of a transaction and for the second one you have to enter hash of a block.
 
-For the 0.3v you have to :
+For the v0.3 you have to :
 
 1. Open ubuntu command line;
 
