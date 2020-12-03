@@ -31,6 +31,6 @@ For the v0.3 you have to :
 
 2. Go the directory of downloaded source code;
 
-3. Type *clang++ -std=c++11 -o main.main.cpp $(pkg-config --cflags --libs libbitcoin)*;
+3. Type *clang++ -std=c++11 -o main main.cpp $(pkg-config --cflags --libs libbitcoin)*;
 
 4. After compiling, type *./main* to execute our program file.
